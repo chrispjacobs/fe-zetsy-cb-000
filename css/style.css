@@ -52,13 +52,16 @@ body {
   border-color: lightgray;
 }
 
-#copyright-text {
-  text-align: right;
+#link-box {
+  transition: border-color 0.1 ease;
 }
 
-#link-boxes:hover {
-  transition: border-color 0.1s ease;
+#link-box:hover {
   border-color: rgba(65, 65, 65, 1.0);
+}
+
+#copyright-text {
+  text-align: right;
 }
 
 #box-1 {
