@@ -28,7 +28,7 @@ h5 {
 }
 
 h6 {
-  color: dimgray;
+  color: rgba(65, 65, 65, 1.0);
 }
 
 body {
@@ -54,6 +54,11 @@ body {
 
 #copyright-text {
   text-align: right;
+}
+
+#link-boxes {
+  transition: border-color 0.1s ease;
+  border-color: rgba(65, 65, 65, 1.0);
 }
 
 #box-1 {
