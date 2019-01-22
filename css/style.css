@@ -24,11 +24,11 @@ h2 {
 }
 
 h5 {
-  color: rgba(65, 65, 65, 1.0);
+  color: rgba(70, 70, 70, 1.0);
 }
 
 h6 {
-  color: rgba(65, 65, 65, 1.0);
+  color: rgba(70, 70, 70, 1.0);
 }
 
 body {
@@ -54,7 +54,7 @@ body {
 }
 
 .gray-bordered:hover {
-  border-color: rgba(65, 65, 65, 1.0);
+  border-color: rgba(70, 70, 70, 1.0);
 }
 
 #copyright-text {
