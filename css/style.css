@@ -47,16 +47,13 @@ body {
 /* Write all remaining styles here */
 
 .gray-bordered {
+  transition: border-color 0s ease;
   border-style: solid;
   border-width: 4px;
   border-color: lightgray;
 }
 
-#link-box {
-  transition: border-color 0.1 ease;
-}
-
-#link-box:hover {
+.gray-bordered:hover {
   border-color: rgba(65, 65, 65, 1.0);
 }
 
